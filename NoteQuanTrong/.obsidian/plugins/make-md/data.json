@@ -38,7 +38,8 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//Note từa lưa"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

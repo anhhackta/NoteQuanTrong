@@ -1,6 +1,8 @@
 ---
 aliases:
   - "**Giới thiệu bản thân"
+tags:
+  - Info
 ---
 
 ### **Giới thiệu bản thân
@@ -18,7 +20,7 @@ aliases:
 ---
 
 🎓 **Học Vấn & Sự Nghiệp**
-*   **Học vấn:** `[Tên trường], chuyên ngành [Tên chuyên ngành]`
+*   **Học vấn:** `VTC Academy, chuyên ngành Game Development`
     *   *(Gợi ý: Có thể thêm các chứng chỉ, khóa học nổi bật đã hoàn thành)*
 *   **Công việc hiện tại:** `[Chức danh] tại [Tên công ty/tổ chức]`
 *   **Lĩnh vực quan tâm:** `[Lĩnh vực bạn đam mê hoặc muốn phát triển sự nghiệp, ví dụ: Công nghệ, Marketing, Giáo dục...]`
