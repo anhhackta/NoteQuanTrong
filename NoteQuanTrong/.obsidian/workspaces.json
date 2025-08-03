@@ -1,0 +1,190 @@
+{
+  "workspaces": {
+    "GameGDD": {
+      "main": {
+        "id": "855fba51fc3f29eb",
+        "type": "split",
+        "children": [
+          {
+            "id": "c95a26486ad1fca3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2f484419a46b55a3",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-space",
+                  "state": {
+                    "path": "Chưa đặt tên"
+                  },
+                  "icon": "lucide-file",
+                  "title": "Chưa đặt tên"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "7cda023eba8f166f",
+        "type": "split",
+        "children": [
+          {
+            "id": "99e29f954aea8389",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5deccca08aec14c8",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Trình duyệt tệp"
+                }
+              },
+              {
+                "id": "4ffd6052aebcbc74",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Tìm kiếm"
+                }
+              },
+              {
+                "id": "9078c17cc8df68da",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Đánh dấu"
+                }
+              },
+              {
+                "id": "1c5c2d85b3fcf5d7",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {},
+                  "icon": "layout-grid",
+                  "title": "Navigator"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "cdbd4a6229510d85",
+        "type": "split",
+        "children": [
+          {
+            "id": "b52f1f851a023e7f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d4b7b5f7a91f752e",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Game Umamusume.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Liên kết đến của Game Umamusume"
+                }
+              },
+              {
+                "id": "e1eae0bf6ba179f4",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Liên kết đi ra"
+                }
+              },
+              {
+                "id": "72615a11d406faeb",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "6d2ae9d7b113e846",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Đề cương"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "markdown-importer:Mở trình chuyển đổi Markdown": false,
+          "switcher:Mở bộ chuyển đổi nhanh": false,
+          "graph:Mở xem biểu đồ": false,
+          "canvas:Tạo bảng mới": false,
+          "daily-notes:Mở ghi chú hôm nay": false,
+          "templates:Chèn mẫu": false,
+          "command-palette:Mở khay lệnh": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:Quản lý cấu trúc khung làm việc": false,
+          "publish:Xuất bản các thay đổi...": false
+        }
+      },
+      "active": "5deccca08aec14c8",
+      "mtime": "2025-08-04T01:40:51+07:00"
+    }
+  },
+  "active": "GameGDD"
+}

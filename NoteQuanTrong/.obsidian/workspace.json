@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "855fba51fc3f29eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ea83d50361c2bb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "154dc0cb5f13797b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tags/Tags.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7cda023eba8f166f",
+    "type": "split",
+    "children": [
+      {
+        "id": "99e29f954aea8389",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5deccca08aec14c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Trình duyệt tệp"
+            }
+          },
+          {
+            "id": "4ffd6052aebcbc74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Tìm kiếm"
+            }
+          },
+          {
+            "id": "9078c17cc8df68da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Đánh dấu"
+            }
+          },
+          {
+            "id": "dc01bbf63ea456f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Trình duyệt tệp"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 429.5
+  },
+  "right": {
+    "id": "cdbd4a6229510d85",
+    "type": "split",
+    "children": [
+      {
+        "id": "b52f1f851a023e7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4b7b5f7a91f752e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quản lý Dự án/Game Design Document – AntKnow (Bản cập nhật 2025).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Liên kết đến của Game Design Document – AntKnow (Bản cập nhật 2025)"
+            }
+          },
+          {
+            "id": "e1eae0bf6ba179f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Quản lý Dự án/Game Design Document – AntKnow (Bản cập nhật 2025).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liên kết đi ra từ Game Design Document – AntKnow (Bản cập nhật 2025)"
+            }
+          },
+          {
+            "id": "72615a11d406faeb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6d2ae9d7b113e846",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tags/Tags.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Đề cương của Tags"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "graph:Mở xem biểu đồ": false,
+      "markdown-importer:Mở trình chuyển đổi Markdown": false,
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false,
+      "workspaces:Quản lý cấu trúc khung làm việc": false,
+      "publish:Xuất bản các thay đổi...": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "9078c17cc8df68da",
+  "lastOpenFiles": [
+    "Tags/Tags.md",
+    "Tài nguyên/Tài nguyên.md",
+    "Vault.md",
+    "Note từa lưa/Game Umamusume.md",
+    "Note từa lưa/Giới thiệu bản thân.md",
+    "Ghi chú Kỹ thuật/Ghi chú Kỹ thuật.md",
+    "Quản lý Dự án/Game Design Document – AntKnow (Bản cập nhật 2025).md",
+    "Quản lý Dự án/Quản lý Dự án.md",
+    "Lưu trữ/nam_chess_web_prompt.md",
+    "Lưu trữ/~$Cong_Thuc_Tinh_Toan_Game_Ban_Hang_Rong.xlsx",
+    "Lưu trữ/card_spy_gdd.md",
+    "Lưu trữ/nam_chess_web_prompt.markdown",
+    "Lưu trữ/nam_chess_web_prompt.md.markdown",
+    "Lưu trữ/Learning-Environment-Design-Agents.md",
+    "Lưu trữ/AntKnow Project Plan.pdf",
+    "Lưu trữ/GameDesignDocument.pdf",
+    "Lưu trữ/Cong_Thuc_Tinh_Toan_Game_Ban_Hang_Rong.xlsx",
+    "Lưu trữ/Thông tin khác.txt",
+    "Lưu trữ/nam_chess_gdd.md",
+    "File Game.md",
+    "Chưa đặt tên.md",
+    "Quản lý Dự án/Untitled.md",
+    "Quản lý Dự án/AntKnowGame.md",
+    "CPVM/h1.png",
+    "CPVM/be1baa1n_bc3a8.png",
+    "CPVM/35.png",
+    "CPVM/21.png",
+    "CPVM",
+    "Note từa lưa/Chưa đặt tên.md",
+    "textgenerator/templates/default/getEmailNeg.md",
+    "textgenerator/templates/default/simplify.md",
+    "textgenerator/templates/default/rewrite.md",
+    "textgenerator/templates/default/getParagraph.md",
+    "textgenerator/templates/default/summarizeLarge.md",
+    "textgenerator/templates/default/getOutline.md",
+    "textgenerator/templates/default/summarize.md",
+    "textgenerator/templates/default/getTags.md",
+    "textgenerator/templates/default/getTitles.md",
+    "textgenerator/templates/default",
+    "textgenerator/templates",
+    "Quản lý Dự án/Chưa đặt tên.canvas",
+    "Chưa đặt tên.canvas"
+  ]
+}
